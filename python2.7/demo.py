@@ -24,7 +24,7 @@ class RequestClient(object):
     def __init__(self, headers={}):
         self.access_id = ''      # replace
         self.secret_key = ''     # replace
-        self.url = 'https://api.coinex.com'
+        self.url = 'https://api.rankcoin.com'
         self.headers = self.__headers
         self.headers.update(headers)
 
