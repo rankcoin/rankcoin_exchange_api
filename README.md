@@ -1,2 +1,4 @@
 # rankcoin_exchange_api
-The global digital coin exchange.
+High-performance Public Audit Token Exchange
+
+Developers please contact service@rankcoin.com
